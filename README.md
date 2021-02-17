@@ -1,0 +1,2 @@
+# logo
+Logotyp optymizacja.pl
